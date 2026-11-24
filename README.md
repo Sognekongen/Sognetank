@@ -47,32 +47,34 @@ Make two macros and spam them in combat:
 
 /sognetank
 /sogneaoe
-Command	What it does
-/sognetank	Single-target rotation
 
-/sogneaoe	AOE rotation (also /sognetankaoe or /sognetank aoe)
+Command	What it does:
 
-/sognetank msg	Toggle the info text in chat
+/sognetank -	Single-target rotation
 
-/sognetank consume	Toggle Major Healthstone use
+/sogneaoe	AOE - Aoe Rotation
 
-/sognetank emergency	Toggle Last Stand and Shield Wall
+/sognetank msg -	Toggle the info text in chat
 
-/sognetank taunt	Toggle auto taunt
+/sognetank consume - Toggle Major Healthstone use
 
-/sognetank fear	Toggle the Berserker Rage fear breaker
+/sognetank emergency - 	Toggle Last Stand and Shield Wall
 
-/sognetank options	Show all settings
+/sognetank taunt - 	Toggle auto taunt
 
-/sognetank listfear	Show the fear spell library
+/sognetank fear	- Toggle the Berserker Rage fear breaker
 
-/sognetank addfear <spell>	Add a fear spell
+/sognetank options -	Show all settings
 
-/sognetank delfear <spell>	Remove a fear spell
+/sognetank listfear - 	Show the fear spell library
 
-/sognetank debug	Show what the addon is doing
+/sognetank addfear <spell> -	Add a fear spell
 
-/sognetank fearstatus	Print fear debugging info
+/sognetank delfear <spell> -	Remove a fear spell
+
+/sognetank debug - Show what the addon is doing
+
+/sognetank fearstatus -	Print fear debugging info
 
 
 Customising:
