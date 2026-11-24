@@ -2,13 +2,14 @@
 Sognetank addon
 Sognetank
 
-One-button warrior tanking for OctoWoW (1.12 client).
+One-button warrior tanking for OctoWoW 1.18.1
 
 Sognetank is a lightweight tanking addon that turns your warrior's rotation into a single macro press. It is built for OctoWoW 1.18.1, where many warrior abilities can be used outside their usual stance, so it works in any stance instead of locking you into Defensive.
 
 Press the macro and Sognetank handles targeting, threat, interrupts, fear and emergencies, so you can focus on positioning and the fight.
 
-Features
+Features:
+
 Two rotations: single target and AOE, each on its own command.
 Thunder Clap priority in the AOE rotation, with Demoralizing Shout on a random roll so it isn't spammed.
 Auto interrupt: Pummel in Berserker Stance, Shield Bash in Battle and Defensive Stance, fired when your target starts casting.
