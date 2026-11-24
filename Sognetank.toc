@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Sognetank
+## Notes: Warrior Tanking Rotations for OctoWoW
+## Author: Sognekongen
+## Version: 1.21
+## SavedVariables: SognetankDB
+
+Sognetank.lua
