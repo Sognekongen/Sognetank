@@ -49,19 +49,33 @@ Make two macros and spam them in combat:
 /sogneaoe
 Command	What it does
 /sognetank	Single-target rotation
+
 /sogneaoe	AOE rotation (also /sognetankaoe or /sognetank aoe)
+
 /sognetank msg	Toggle the info text in chat
+
 /sognetank consume	Toggle Major Healthstone use
+
 /sognetank emergency	Toggle Last Stand and Shield Wall
+
 /sognetank taunt	Toggle auto taunt
+
 /sognetank fear	Toggle the Berserker Rage fear breaker
+
 /sognetank options	Show all settings
+
 /sognetank listfear	Show the fear spell library
+
 /sognetank addfear <spell>	Add a fear spell
+
 /sognetank delfear <spell>	Remove a fear spell
+
 /sognetank debug	Show what the addon is doing
+
 /sognetank fearstatus	Print fear debugging info
-Customising
+
+
+Customising:
 
 All stance rules, rage costs and HP thresholds are in the settings block at the top of Sognetank.lua. If an ability works in a different stance on your server, change the matching table there.
 
