@@ -15,7 +15,7 @@ Two rotations: single target and AOE
 
 Singlet target prioritizing Shield Slam and Concussion Blow in all stances. The warrior will use stance specific abilities in their respective stances. Ex. Shield Block in Def stance, Overpower/Mocking blow (if needed) in Battle stance etc.
 
-Thunder Clap priority in the AOE rotation, with Demoralizing Shout on a random roll so it isn't spammed.
+Thunder Clap priority in the AOE rotation, with Demoralizing Shout occationally
 
 Auto interrupt: Pummel in Berserker Stance, Shield Bash in Battle and Defensive Stance, fired when your target starts casting.
 Shield Block in Defensive Stance.
