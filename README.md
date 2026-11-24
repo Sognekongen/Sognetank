@@ -9,22 +9,36 @@ Press the macro and Sognetank handles targeting, threat, interrupts, fear and em
 Features:
 
 Two rotations: single target and AOE, each on its own command.
+
+Singlet target prioritizing Shield Slam and Concussion Blow in all stances. 
+
 Thunder Clap priority in the AOE rotation, with Demoralizing Shout on a random roll so it isn't spammed.
+
 Auto interrupt: Pummel in Berserker Stance, Shield Bash in Battle and Defensive Stance, fired when your target starts casting.
 Shield Block in Defensive Stance.
+
 Auto taunt: Taunt, or Mocking Blow in Battle Stance, when your target stops attacking you.
+
 Fear breaker: Berserker Rage fires automatically when you are feared, or just before a known fear lands. If you are in another stance, Sognetank switches to Berserker Stance, uses Berserker Rage, and switches back.
+
 Fear spell library: ships with the common fears (Bellowing Roar, Panic, Terrifying Roar, Terrifying Screech and more), learns new ones when you get feared, and lets you add your own.
+
 BigWigs aware: reacts to "fear" warnings when BigWigs is running.
+
 Emergency tools: Shield Wall and Last Stand at low HP, plus Major Healthstone at 15% HP. No potions are touched, so your potion cooldown stays free.
+
 Small chat messages when abilities fire, for example "Warrior broke fear successfully!"
+
 Everything can be switched off. Settings are saved between sessions.
-Installation
-Download this repository.
+
+:::Installation:::
+
 Put the folder in World of Warcraft\Interface\AddOns\ and name it Sognetank. It must contain Sognetank.toc and Sognetank.lua.
 Start the game and make sure Sognetank is ticked in the AddOns list.
 You should see "Sognetank: loaded" in chat when you log in.
-Usage
+
+
+:::Usage:::
 
 Make two macros and spam them in combat:
 
