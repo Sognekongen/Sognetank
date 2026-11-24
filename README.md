@@ -11,9 +11,9 @@ Press the macro and Sognetank handles targeting, threat, interrupts, fear and em
 
 Features:
 
-Two rotations: single target and AOE, each on its own command.
+Two rotations: single target and AOE
 
-Singlet target prioritizing Shield Slam and Concussion Blow in all stances. 
+Singlet target prioritizing Shield Slam and Concussion Blow in all stances. The warrior will use stance specific abilities in their respective stances. Ex. Shield Block in Def stance, Overpower/Mocking blow (if needed) in Battle stance etc.
 
 Thunder Clap priority in the AOE rotation, with Demoralizing Shout on a random roll so it isn't spammed.
 
