@@ -1,6 +1,4 @@
-# Sognetank
-Sognetank addon
-Sognetank
+Sognetank - Tanking Suite Addon
 
 One-button warrior tanking for OctoWoW 1.18.1
 
